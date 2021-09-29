@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
                 applicationContext,
                 "frist name $fName and lastname $lName",
                 Toast.LENGTH_LONG
-            )
+            ).show()
         }
 
     }
